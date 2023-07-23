@@ -5,9 +5,11 @@ Crew - Responsive Free HTML5 template
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: 	   http://wp-sabbir.com/
+Email: 		   info@fwp-sabbir.com
+Twitter:     http://twitter.com/wp_sabbir
+Facebook: 	 https://www.facebook.com/i.am.really.love.you.atia
+Instagram: 	 https://www.instagram.com/wp_sabbir_/
 
 
 CREDITS:
